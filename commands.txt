@@ -1,0 +1,8 @@
+ping 1
+ping 2
+ping 5
+   
+rparam download 1 1
+rparam getall
+
+

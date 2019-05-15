@@ -1,0 +1,5 @@
+Script to run command on a different terminal
+https://askubuntu.com/questions/641683/how-can-i-send-commands-to-specific-terminal-windows
+
+
+target_term -run <terminal_number> <command_to_run>
